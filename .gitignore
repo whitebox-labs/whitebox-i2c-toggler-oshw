@@ -1,0 +1,14 @@
+.DS_Store
+.directory
+*.000
+*.kicad_pcb-bak
+*.bak
+*.bck
+*.sch-bak
+_autosave-*
+*.ods#
+*.net
+*fp-info-cache
+*-save.pro
+*-save.kicad_pcb
+*.tmp

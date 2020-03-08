@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name i2c-toggler)(type KiCad)(uri "$(KIPRJMOD)/libraries/i2c-toggler.pretty")(options "")(descr ""))
+)
