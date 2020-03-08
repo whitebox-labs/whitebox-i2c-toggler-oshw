@@ -1,0 +1,5 @@
+D101: Fairchild BAT54C
+STP (1/2): 1x3 female pin header 2.54 pitch
+STP (2/2): 1x3 female pin header 2.54 pitch
+SW102: C&K JS202011JCQN 
+SW101: Würth 434123043816 
