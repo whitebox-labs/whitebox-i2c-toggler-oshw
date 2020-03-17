@@ -15,3 +15,7 @@ How to operate the I2C Toggler:
 3. Plug Bus Switcher into USB-port
 4. Press and hold button until EZO circuit boots up and changes the LED color
 5. Release the button (which cuts power to the EZO circuit)
+
+## License
+Hardware design files and documentation are licensed under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+https://creativecommons.org/licenses/by-sa/4.0/
